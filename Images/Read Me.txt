@@ -1,0 +1,5 @@
+Keep your image files in this directory.
+
+
+Thanks and regards
+Darshan Patil.

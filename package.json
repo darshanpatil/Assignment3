@@ -1,0 +1,19 @@
+{
+  "name": "Assignment3",
+  "version": "1.0.0",
+  "description": "Lab NODE3: Your Very First HTTP Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darshanpatil/Assignment3.git"
+  },
+  "author": "Darshan Patil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darshanpatil/Assignment3/issues"
+  },
+  "homepage": "https://github.com/darshanpatil/Assignment3"
+}
